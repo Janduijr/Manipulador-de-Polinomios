@@ -2,6 +2,15 @@
 
 Essa ferramenta faz contas com polinômios (soma, subtração, multiplicação e outras) a partir de um arquivo de texto.
 
+## Arquivos principais
+
+Os arquivos essenciais do projeto são:
+
+- **`arquivo.txt`** — arquivo de entrada onde você escreve os polinômios e as operações a serem realizadas.
+- **`projeto.py`** — programa principal que lê o `arquivo.txt` e executa os cálculos.
+
+Os demais arquivos (`exercicios.py`, `projeto-manual.py`) são de uso acadêmico e testes, usados durante o desenvolvimento e aprendizado, e não são necessários para rodar a ferramenta.
+
 ## Passo a passo
 
 1. Abra o arquivo `arquivo.txt` e escreva o que você quer calcular (veja os exemplos abaixo).
